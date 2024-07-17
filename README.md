@@ -1,2 +1,2 @@
 # Projeto-Imovi
- Projeto focado em desemvolvimento de SIte em Bootstrap
+ Projeto focado em desenvolvimento de Site em Bootstrap.
